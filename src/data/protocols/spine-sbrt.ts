@@ -87,16 +87,16 @@ export const SPINE_SBRT_PROTOCOLS: Protocol[] = [
         authors: 'Ryu S et al.',
         journal: 'J Clin Oncol',
         year: 2014,
-        pmid: '25366680',
+        pmid: '24890347',
         doi: '10.1200/JCO.2013.54.0594',
       },
       {
-        title: 'NRG Oncology/RTOG 0631: Phase 2/3 Study of Single-Fraction Stereotactic Radiosurgery',
+        title: 'Stereotactic Radiosurgery vs Conventional Radiotherapy for Localized Vertebral Metastases: Phase 3 Results of NRG Oncology/RTOG 0631',
         authors: 'Ryu S et al.',
-        journal: 'Int J Radiat Oncol Biol Phys',
-        year: 2019,
-        pmid: '31252310',
-        doi: '10.1016/j.ijrobp.2019.05.022',
+        journal: 'JAMA Oncol',
+        year: 2023,
+        pmid: '37079324',
+        doi: '10.1001/jamaoncol.2023.0356',
       },
     ],
 
@@ -189,16 +189,16 @@ export const SPINE_SBRT_PROTOCOLS: Protocol[] = [
         authors: 'Guckenberger M et al.',
         journal: 'J Neurosurg Spine',
         year: 2014,
-        pmid: '24635063',
+        pmid: '25319530',
         doi: '10.3171/2013.12.SPINE13586',
       },
       {
-        title: 'International Spine Radiosurgery Consortium consensus guidelines',
+        title: 'International Spine Radiosurgery Consortium consensus guidelines for target volume definition',
         authors: 'Cox BW et al.',
         journal: 'Int J Radiat Oncol Biol Phys',
         year: 2012,
-        pmid: '22245199',
-        doi: '10.1016/j.ijrobp.2012.01.018',
+        pmid: '22608954',
+        doi: '10.1016/j.ijrobp.2012.03.009',
       },
     ],
 
@@ -283,12 +283,12 @@ export const SPINE_SBRT_PROTOCOLS: Protocol[] = [
 
     publications: [
       {
-        title: 'Five-fraction image-guided spine SBRT: outcomes and toxicity',
+        title: 'Probabilities of radiation myelopathy specific to stereotactic body radiation therapy to guide safe practice',
         authors: 'Sahgal A et al.',
-        journal: 'Radiother Oncol',
+        journal: 'Int J Radiat Oncol Biol Phys',
         year: 2013,
-        pmid: '23540548',
-        doi: '10.1016/j.radonc.2013.03.001',
+        pmid: '22713832',
+        doi: '10.1016/j.ijrobp.2012.05.007',
       },
     ],
 
@@ -376,20 +376,20 @@ export const SPINE_SBRT_PROTOCOLS: Protocol[] = [
 
     publications: [
       {
-        title: 'Re-irradiation of spinal metastases with stereotactic body radiotherapy',
+        title: 'Reirradiation human spinal cord tolerance for stereotactic body radiotherapy',
         authors: 'Sahgal A et al.',
         journal: 'Int J Radiat Oncol Biol Phys',
         year: 2012,
-        pmid: '22541962',
-        doi: '10.1016/j.ijrobp.2011.12.083',
+        pmid: '20951503',
+        doi: '10.1016/j.ijrobp.2010.08.021',
       },
       {
-        title: 'Spinal cord tolerance to stereotactic body radiotherapy',
+        title: 'Spinal cord tolerance for stereotactic body radiotherapy',
         authors: 'Sahgal A et al.',
         journal: 'Int J Radiat Oncol Biol Phys',
         year: 2010,
-        pmid: '20472354',
-        doi: '10.1016/j.ijrobp.2009.07.1729',
+        pmid: '19765914',
+        doi: '10.1016/j.ijrobp.2009.05.023',
       },
     ],
 

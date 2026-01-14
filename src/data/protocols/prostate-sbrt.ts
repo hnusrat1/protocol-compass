@@ -72,20 +72,20 @@ export const PROSTATE_SBRT_PROTOCOLS: Protocol[] = [
 
     publications: [
       {
-        title: 'PACE-B: Stereotactic body radiotherapy vs conventional radiotherapy for localized prostate cancer',
+        title: 'Intensity-modulated fractionated radiotherapy versus stereotactic body radiotherapy for prostate cancer (PACE-B): acute toxicity findings',
         authors: 'Brand DH et al.',
         journal: 'Lancet Oncol',
         year: 2019,
-        pmid: '31385801',
-        doi: '10.1016/S1470-2045(19)30397-0',
+        pmid: '31540791',
+        doi: '10.1016/S1470-2045(19)30569-8',
       },
       {
-        title: 'PACE-B: Five-year outcomes from the randomised phase III trial',
+        title: 'Intensity-modulated radiotherapy versus stereotactic body radiotherapy for prostate cancer (PACE-B): 2-year toxicity results',
         authors: 'Tree AC et al.',
-        journal: 'Lancet',
+        journal: 'Lancet Oncol',
         year: 2022,
-        pmid: '35617968',
-        doi: '10.1016/S0140-6736(22)00546-7',
+        pmid: '36113498',
+        doi: '10.1016/S1470-2045(22)00517-4',
       },
     ],
 
@@ -253,12 +253,12 @@ export const PROSTATE_SBRT_PROTOCOLS: Protocol[] = [
         doi: '10.1186/1748-717X-8-43',
       },
       {
-        title: 'Long-term outcomes following stereotactic body radiotherapy for prostate cancer',
+        title: 'Stereotactic body radiotherapy for localized prostate cancer: pooled analysis from a multi-institutional consortium',
         authors: 'King CR et al.',
-        journal: 'J Clin Oncol',
+        journal: 'Radiother Oncol',
         year: 2013,
-        pmid: '23401440',
-        doi: '10.1200/JCO.2012.44.5948',
+        pmid: '24060175',
+        doi: '10.1016/j.radonc.2013.08.030',
       },
     ],
 

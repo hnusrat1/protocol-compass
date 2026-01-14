@@ -85,12 +85,12 @@ export const LIVER_SBRT_PROTOCOLS: Protocol[] = [
 
     publications: [
       {
-        title: 'Stereotactic body radiation therapy for colorectal liver metastases',
+        title: 'Multi-institutional phase I/II trial of stereotactic body radiation therapy for liver metastases',
         authors: 'Rusthoven KE et al.',
-        journal: 'Cancer',
+        journal: 'J Clin Oncol',
         year: 2009,
-        pmid: '19479440',
-        doi: '10.1002/cncr.24379',
+        pmid: '19255321',
+        doi: '10.1200/JCO.2008.19.6329',
       },
       {
         title: 'Multi-institutional phase I/II trial of stereotactic body radiation therapy for liver metastases',
